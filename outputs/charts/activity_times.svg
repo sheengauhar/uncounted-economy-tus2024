@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600">
+<rect width="100%" height="100%" fill="#fbfaf7"/>
+<text x="46.0" y="48.0" font-family="Arial, sans-serif" font-size="25px" fill="#18324a" font-weight="700" text-anchor="start">What household production takes, minute by minute</text>
+<text x="46.0" y="77.0" font-family="Arial, sans-serif" font-size="14px" fill="#526579" font-weight="400" text-anchor="start">Weighted average minutes/day among participants; NSO TUS 2024, final weight MLT/100.</text>
+<rect x="85" y="259.86" width="70" height="225.14" fill="#1e8a8a"/>
+<text x="120.0" y="250.9" font-family="Arial, sans-serif" font-size="13px" fill="#263547" font-weight="700" text-anchor="middle">170</text>
+<text x="120.0" y="510.0" font-family="Arial, sans-serif" font-size="12px" fill="#263547" font-weight="400" text-anchor="middle">Crops /</text>
+<text x="120.0" y="529.0" font-family="Arial, sans-serif" font-size="11px" fill="#637487" font-weight="400" text-anchor="middle">211</text>
+<rect x="213" y="345.40" width="70" height="139.60" fill="#1e8a8a"/>
+<text x="248.0" y="336.4" font-family="Arial, sans-serif" font-size="13px" fill="#263547" font-weight="700" text-anchor="middle">106</text>
+<text x="248.0" y="510.0" font-family="Arial, sans-serif" font-size="12px" fill="#263547" font-weight="400" text-anchor="middle">Animals</text>
+<text x="248.0" y="529.0" font-family="Arial, sans-serif" font-size="11px" fill="#637487" font-weight="400" text-anchor="middle">212</text>
+<rect x="341" y="398.36" width="70" height="86.64" fill="#1e8a8a"/>
+<text x="376.0" y="389.4" font-family="Arial, sans-serif" font-size="13px" fill="#263547" font-weight="700" text-anchor="middle">66</text>
+<text x="376.0" y="510.0" font-family="Arial, sans-serif" font-size="12px" fill="#263547" font-weight="400" text-anchor="middle">Wild</text>
+<text x="376.0" y="529.0" font-family="Arial, sans-serif" font-size="11px" fill="#637487" font-weight="400" text-anchor="middle">215</text>
+<rect x="469" y="386.98" width="70" height="98.02" fill="#e58b45"/>
+<text x="504.0" y="378.0" font-family="Arial, sans-serif" font-size="13px" fill="#263547" font-weight="700" text-anchor="middle">74</text>
+<text x="504.0" y="510.0" font-family="Arial, sans-serif" font-size="12px" fill="#263547" font-weight="400" text-anchor="middle">Firewood</text>
+<text x="504.0" y="529.0" font-family="Arial, sans-serif" font-size="11px" fill="#637487" font-weight="400" text-anchor="middle">241</text>
+<rect x="597" y="431.79" width="70" height="53.21" fill="#3979a8"/>
+<text x="632.0" y="422.8" font-family="Arial, sans-serif" font-size="13px" fill="#263547" font-weight="700" text-anchor="middle">40</text>
+<text x="632.0" y="510.0" font-family="Arial, sans-serif" font-size="12px" fill="#263547" font-weight="400" text-anchor="middle">Water</text>
+<text x="632.0" y="529.0" font-family="Arial, sans-serif" font-size="11px" fill="#637487" font-weight="400" text-anchor="middle">242</text>
+<rect x="725" y="362.84" width="70" height="122.16" fill="#8497a7"/>
+<text x="760.0" y="353.8" font-family="Arial, sans-serif" font-size="13px" fill="#263547" font-weight="700" text-anchor="middle">92</text>
+<text x="760.0" y="510.0" font-family="Arial, sans-serif" font-size="12px" fill="#263547" font-weight="400" text-anchor="middle">Other goods</text>
+<text x="760.0" y="529.0" font-family="Arial, sans-serif" font-size="11px" fill="#637487" font-weight="400" text-anchor="middle">2xx</text>
+<rect x="853" y="170.00" width="70" height="315.00" fill="#d56b50"/>
+<text x="888.0" y="161.0" font-family="Arial, sans-serif" font-size="13px" fill="#263547" font-weight="700" text-anchor="middle">238</text>
+<text x="888.0" y="510.0" font-family="Arial, sans-serif" font-size="12px" fill="#263547" font-weight="400" text-anchor="middle">Domestic</text>
+<text x="888.0" y="529.0" font-family="Arial, sans-serif" font-size="11px" fill="#637487" font-weight="400" text-anchor="middle">3xx</text>
+<line x1="60" y1="485" x2="970" y2="485" stroke="#9aa9b6"/>
+<text x="46.0" y="575.0" font-family="Arial, sans-serif" font-size="11px" fill="#637487" font-weight="400" text-anchor="start">Non-participants contribute zero to the population mean; these bars condition on participation.</text>
+</svg>

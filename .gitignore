@@ -1,0 +1,32 @@
+# Survey microdata and derived record-level files
+/data/
+
+# Downloaded official documentation; obtain from the official catalogue
+/docs/
+
+# Local research tracking note
+/RESEARCH_STATUS.md
+
+# Source archives and extracted Nesstar containers
+*.zip
+*.Nesstar
+
+# Python caches and temporary output
+__pycache__/
+*.py[cod]
+*.partial
+
+# Duplicate upstream review copy; the pinned working copy and its license are retained
+/analysis/vendor/review_src/
+/analysis/vendor/nesstar-reader-*.zip
+
+# Rendered preview/poster images; source SVG charts are retained
+/outputs/charts/*.png
+
+# Granular internal subgroup table
+/outputs/tables/person_group_estimates.csv
+
+# Local editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db

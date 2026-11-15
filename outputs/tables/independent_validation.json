@@ -1,0 +1,105 @@
+{
+  "status": "passed",
+  "person_day_records_recomputed": 450452,
+  "estimate_rows_compared": 63,
+  "metric_rows_compared": 9,
+  "groups_compared": 7,
+  "fields_compared_per_row": [
+    "sample_n",
+    "weighted_population",
+    "participants_n",
+    "weighted_participants",
+    "weighted_minutes_total",
+    "participation_rate_pct",
+    "mean_minutes_per_person",
+    "mean_minutes_per_participant"
+  ],
+  "tolerance": 1e-06,
+  "max_scope_minutes": 1245.0,
+  "max_goods_plus_domestic_reconciliation_error_minutes": 0.0,
+  "response_code_counts": {
+    "1": 444492,
+    "2": 5960
+  },
+  "rural_women_response_sensitivity": {
+    "household_scope": {
+      "all_valid_diaries": {
+        "sample_n": 142080,
+        "weighted_population": 340226113.48994625,
+        "participants_n": 117874,
+        "weighted_participants": 281378789.749973,
+        "weighted_minutes_total": 90579226982.20114,
+        "participation_rate_pct": 82.70346648693908,
+        "mean_minutes_per_person": 266.23243599106564,
+        "mean_minutes_per_participant": 321.91206402830807
+      },
+      "response_code_1_only": {
+        "sample_n": 140747,
+        "weighted_population": 336987099.4999507,
+        "participants_n": 116774,
+        "weighted_participants": 278699270.29997575,
+        "weighted_minutes_total": 89724033259.95137,
+        "participation_rate_pct": 82.70324612233902,
+        "mean_minutes_per_person": 266.25361443536354,
+        "mean_minutes_per_participant": 321.9385295245934
+      },
+      "mean_minutes_delta_code1_minus_all": 0.021178444297902388,
+      "participation_rate_delta_pp_code1_minus_all": -0.00022036460005381286
+    },
+    "goods_own_use": {
+      "all_valid_diaries": {
+        "sample_n": 142080,
+        "weighted_population": 340226113.48994625,
+        "participants_n": 37917,
+        "weighted_participants": 87800551.19999717,
+        "weighted_minutes_total": 9711384316.849854,
+        "participation_rate_pct": 25.80652916360922,
+        "mean_minutes_per_person": 28.543912215417958,
+        "mean_minutes_per_participant": 110.60732744978674
+      },
+      "response_code_1_only": {
+        "sample_n": 140747,
+        "weighted_population": 336987099.4999507,
+        "participants_n": 37686,
+        "weighted_participants": 87245970.09999755,
+        "weighted_minutes_total": 9656289284.599815,
+        "participation_rate_pct": 25.890002979182388,
+        "mean_minutes_per_person": 28.654774319042524,
+        "mean_minutes_per_participant": 110.67891472273384
+      },
+      "mean_minutes_delta_code1_minus_all": 0.11086210362456583,
+      "participation_rate_delta_pp_code1_minus_all": 0.0834738155731678
+    },
+    "domestic_services": {
+      "all_valid_diaries": {
+        "sample_n": 142080,
+        "weighted_population": 340226113.48994625,
+        "participants_n": 116503,
+        "weighted_participants": 278224184.95997626,
+        "weighted_minutes_total": 80867842665.35106,
+        "participation_rate_pct": 81.77625817901772,
+        "mean_minutes_per_person": 237.68852377564698,
+        "mean_minutes_per_participant": 290.6571284483563
+      },
+      "response_code_1_only": {
+        "sample_n": 140747,
+        "weighted_population": 336987099.4999507,
+        "participants_n": 115411,
+        "weighted_participants": 275565957.8299825,
+        "weighted_minutes_total": 80067743975.35088,
+        "participation_rate_pct": 81.77344421756503,
+        "mean_minutes_per_person": 237.59884011631902,
+        "mean_minutes_per_participant": 290.55745711794606
+      },
+      "mean_minutes_delta_code1_minus_all": -0.08968365932796019,
+      "participation_rate_delta_pp_code1_minus_all": -0.002813961452687863
+    }
+  },
+  "checks": [
+    "positive final person weights",
+    "durations are within 0-1440 minutes",
+    "participation rates are within 0-100 percent",
+    "weighted estimates match the independent aggregation",
+    "goods plus domestic services reconcile to combined time"
+  ]
+}

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#fbfaf7"/>
+<text x="72" y="115" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="#18324a">Firewood cooking and collection</text>
+<text x="72" y="170" font-family="Arial, sans-serif" font-size="25" fill="#526579">Households with at least one diary member collecting firewood</text>
+
+<rect x="72" y="230" width="936" height="202" rx="18" fill="#eaf1f5"/>
+<text x="110" y="295" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#526579">THE DESCRIPTIVE GAP</text>
+<text x="110" y="378" font-family="Arial, sans-serif" font-size="68" font-weight="700" fill="#18324a">14.8x</text>
+<text x="365" y="366" font-family="Arial, sans-serif" font-size="27" fill="#263547">Firewood/chips households had a higher</text>
+<text x="365" y="405" font-family="Arial, sans-serif" font-size="27" fill="#263547">share reporting collection than other-fuel households.</text>
+
+<text x="120" y="510" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#526579">WEIGHTED SHARE OF HOUSEHOLDS (%)</text>
+<line x1="370" y1="1000" x2="910" y2="1000" stroke="#718397" stroke-width="2"/>
+<line x1="370" y1="565" x2="370" y2="1000" stroke="#718397" stroke-width="2"/>
+
+<g font-family="Arial, sans-serif" font-size="19" fill="#526579" text-anchor="middle">
+  <line x1="370" y1="1000" x2="370" y2="1012" stroke="#718397" stroke-width="2"/><text x="370" y="1045">0</text>
+  <line x1="505" y1="1000" x2="505" y2="1012" stroke="#718397" stroke-width="2"/><text x="505" y="1045">5</text>
+  <line x1="640" y1="1000" x2="640" y2="1012" stroke="#718397" stroke-width="2"/><text x="640" y="1045">10</text>
+  <line x1="775" y1="1000" x2="775" y2="1012" stroke="#718397" stroke-width="2"/><text x="775" y="1045">15</text>
+  <line x1="910" y1="1000" x2="910" y2="1012" stroke="#718397" stroke-width="2"/><text x="910" y="1045">20</text>
+</g>
+<g stroke="#d7dee5" stroke-width="1">
+  <line x1="505" y1="565" x2="505" y2="1000"/>
+  <line x1="640" y1="565" x2="640" y2="1000"/>
+  <line x1="775" y1="565" x2="775" y2="1000"/>
+  <line x1="910" y1="565" x2="910" y2="1000"/>
+</g>
+
+<text x="120" y="680" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#263547">Firewood/chips</text>
+<text x="120" y="718" font-family="Arial, sans-serif" font-size="23" fill="#526579">main cooking fuel</text>
+<rect x="370" y="625" width="503.15" height="112" rx="8" fill="#d56b50"/>
+<text x="852" y="694" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#18324a" text-anchor="end">18.64%</text>
+<text x="370" y="775" font-family="Arial, sans-serif" font-size="19" fill="#637487">Unweighted diary-household sample: n = 36,690</text>
+
+<text x="120" y="875" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#263547">Other recorded</text>
+<text x="120" y="913" font-family="Arial, sans-serif" font-size="23" fill="#526579">cooking fuels</text>
+<rect x="370" y="820" width="34.04" height="112" rx="8" fill="#3979a8"/>
+<text x="425" y="890" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#18324a">1.26%</text>
+<text x="370" y="970" font-family="Arial, sans-serif" font-size="19" fill="#637487">Unweighted diary-household sample: n = 102,793</text>
+
+<rect x="72" y="1100" width="936" height="170" rx="14" fill="#f3eee6"/>
+<text x="105" y="1150" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#263547">HOW TO READ THIS</text>
+<text x="105" y="1190" font-family="Arial, sans-serif" font-size="19" fill="#263547">Weighted household estimates; denominator is households with at least one valid diary member.</text>
+<text x="105" y="1225" font-family="Arial, sans-serif" font-size="19" fill="#263547">Outcome: at least one diary member collected firewood. Association is descriptive, not causal.</text>
+<text x="105" y="1258" font-family="Arial, sans-serif" font-size="17" fill="#637487">Source: MoSPI/NSS Time Use Survey 2024. Final household multiplier: MULT/100.</text>
+</svg>
